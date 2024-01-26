@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ihsannisti
-- 👀 I’m interested in Java programming and Quality Assurance.
-- 🌱 I’m currently learning Mobile automation and Rest API
+- 👀 A learner and currently learning.
 - 📫 How to reach me mi.muhammadihsan19@gmail.com
 
 <!---
